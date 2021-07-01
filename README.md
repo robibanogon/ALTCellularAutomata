@@ -1,1 +1,1 @@
-# ALTCellularAutomata
+# ALT Cellular Automata
